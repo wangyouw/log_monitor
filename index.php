@@ -1,6 +1,6 @@
 <?php
 $a = var_export(['sd'=>11]);
-echo $a;exit;
+echo $a;exit; 
 preg_match('/.*[error].*/', '1[err1or]tail: /tmp/logstash_all.log：文件已截断',$match);
 var_dump($match);
 exit;
