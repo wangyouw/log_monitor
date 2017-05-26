@@ -1,0 +1,98 @@
+localhost 2017-05-25 10:24:41 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}
+
+localhost 2017-05-25 10:25:38 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}
+
+localhost 2017-05-25 14:44:56 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}
+
+
+Fatal error: Cannot use object of type Redis as array in /home/wwwroot/log_monitor/monitor.php on line 18
+localhost 2017-05-25 14:48:49 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}
+
+localhost [25-May-2017 14:56:16 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:08:10 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost 2017-05-25 15:08:10 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}
+
+localhost [25-May-2017 15:10:26 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:27:15 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+tail: /tmp/logstash_all.log：文件已截断
+
+localhost [25-May-2017 15:27:31 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:36:58 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:37:17 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:45:46 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:46:51 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:47:41 PRC] PHP Notice:  Undefined variable: a in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 4
+
+localhost [25-May-2017 15:48:54 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:48:54 PRC] PHP Fatal error:  Call to a member function from() on null in /home/wwwroot/log_monitor/mailCron.php on line 37
+
+localhost [25-May-2017 15:50:40 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:54:26 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:55:40 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:56:14 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:57:56 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 15:59:50 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+localhost [25-May-2017 16:15:17 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+tail: /tmp/logstash_all.log：文件已截断
+
+localhost [25-May-2017 16:15:48 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:29:18.068Z","@version":"1","host":"localhost","message":"[25-May-2017 17:29:17 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:30:23.690Z","@version":"1","host":"localhost","message":"[25-May-2017 17:30:23 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:44:57.117Z","@version":"1","host":"localhost","message":"[25-May-2017 17:44:56 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:45:06.185Z","@version":"1","host":"localhost","message":"[25-May-2017 17:45:06 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:47:18.369Z","@version":"1","host":"localhost","message":"[25-May-2017 17:47:18 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:57:33.915Z","@version":"1","host":"localhost","message":"[25-May-2017 17:57:33 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:57:53.940Z","@version":"1","host":"localhost","message":"[25-May-2017 17:57:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:59:54.009Z","@version":"1","host":"localhost","message":"[25-May-2017 17:59:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:02:43.417Z","@version":"1","host":"localhost","message":"[25-May-2017 18:02:42 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:07:46.846Z","@version":"1","host":"localhost","message":"[25-May-2017 18:07:46 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:13:25.552Z","@version":"1","host":"localhost","message":"[25-May-2017 18:13:24 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:19:29.919Z","@version":"1","host":"localhost","message":"[25-May-2017 18:19:29 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err","day":"2017.05.26"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:27:43.817Z","@version":"1","host":"localhost","message":"[25-May-2017 18:27:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:30:49.554Z","@version":"1","host":"localhost","message":"[25-May-2017 18:30:48 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:31:16.574Z","@version":"1","host":"localhost","message":"[25-May-2017 18:31:16 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:32:42.653Z","@version":"1","host":"localhost","message":"[25-May-2017 18:32:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:32:54.664Z","@version":"1","host":"localhost","message":"[25-May-2017 18:32:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:33:20.682Z","@version":"1","host":"localhost","message":"[25-May-2017 18:33:20 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+{"path":"/tmp/test.log","@timestamp":"2017-05-25T10:33:54.750Z","@version":"1","host":"localhost","message":"2017-05-25 18:33:53 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+
+{"path":"/tmp/test.log","@timestamp":"2017-05-25T10:34:22.772Z","@version":"1","host":"localhost","message":"2017-05-25 18:34:22 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+
+{"path":"/tmp/test.log","@timestamp":"2017-05-25T11:10:59.292Z","@version":"1","host":"localhost","message":"2017-05-25 19:10:58 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+

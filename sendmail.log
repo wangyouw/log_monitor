@@ -1,0 +1,187 @@
+array (
+  'path' => '/var/log/php_error.log',
+  '@timestamp' => '2017-05-25T09:44:57.117Z',
+  '@version' => '1',
+  'host' => 'localhost',
+  'message' => '[25-May-2017 17:44:56 PRC] PHP Parse error:  syntax error, unexpected \'1\' (T_LNUMBER), expecting variable (T_VARIABLE) or \'$\' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5',
+  'type' => 'php_err',
+)Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:44:57.117Z","@version":"1","host":"localhost","message":"[25-May-2017 17:44:56 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:44:58
+)
+array (
+  'path' => '/var/log/php_error.log',
+  '@timestamp' => '2017-05-25T09:45:06.185Z',
+  '@version' => '1',
+  'host' => 'localhost',
+  'message' => '[25-May-2017 17:45:06 PRC] PHP Parse error:  syntax error, unexpected \'1\' (T_LNUMBER), expecting variable (T_VARIABLE) or \'$\' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5',
+  'type' => 'php_err',
+)Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:45:06.185Z","@version":"1","host":"localhost","message":"[25-May-2017 17:45:06 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:45:06
+)
+array (
+  'path' => '/var/log/php_error.log',
+  '@timestamp' => '2017-05-25T09:47:18.369Z',
+  '@version' => '1',
+  'host' => 'localhost',
+  'message' => '[25-May-2017 17:47:18 PRC] PHP Parse error:  syntax error, unexpected \'1\' (T_LNUMBER), expecting variable (T_VARIABLE) or \'$\' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5',
+  'type' => 'php_err',
+)Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:47:18.369Z","@version":"1","host":"localhost","message":"[25-May-2017 17:47:18 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:47:18
+)
+array (
+  'path' => '/var/log/php_error.log',
+  '@timestamp' => '2017-05-25T09:57:33.915Z',
+  '@version' => '1',
+  'host' => 'localhost',
+  'message' => '[25-May-2017 17:57:33 PRC] PHP Parse error:  syntax error, unexpected \'1\' (T_LNUMBER), expecting variable (T_VARIABLE) or \'$\' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5',
+  'type' => 'php_err',
+)Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:57:33.915Z","@version":"1","host":"localhost","message":"[25-May-2017 17:57:33 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:57:34
+)
+array (
+  'path' => '/var/log/php_error.log',
+  '@timestamp' => '2017-05-25T09:57:53.940Z',
+  '@version' => '1',
+  'host' => 'localhost',
+  'message' => '[25-May-2017 17:57:53 PRC] PHP Parse error:  syntax error, unexpected \'1\' (T_LNUMBER), expecting variable (T_VARIABLE) or \'$\' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5',
+  'type' => 'php_err',
+)Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:57:53.940Z","@version":"1","host":"localhost","message":"[25-May-2017 17:57:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:57:53
+)
+<table><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>@timestamp</td><td>2017-05-25T09:59:54.009Z</td></tr><tr><td>@version</td><td>1</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 17:59:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T09:59:54.009Z","@version":"1","host":"localhost","message":"[25-May-2017 17:59:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 17:59:54
+)
+<table style='border:1px'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>@timestamp</td><td>2017-05-25T10:02:43.417Z</td></tr><tr><td>@version</td><td>1</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:02:42 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:02:43.417Z","@version":"1","host":"localhost","message":"[25-May-2017 18:02:42 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:02:43
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>@timestamp</td><td>2017-05-25T10:07:46.846Z</td></tr><tr><td>@version</td><td>1</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:07:46 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:07:46.846Z","@version":"1","host":"localhost","message":"[25-May-2017 18:07:46 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:07:46
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>@timestamp</td><td>2017-05-25T10:13:25.552Z</td></tr><tr><td>@version</td><td>1</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:13:24 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:13:25.552Z","@version":"1","host":"localhost","message":"[25-May-2017 18:13:24 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:13:30
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>@timestamp</td><td>2017-05-25T10:19:29.919Z</td></tr><tr><td>@version</td><td>1</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:19:29 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr><tr><td>day</td><td>2017.05.26</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:19:29.919Z","@version":"1","host":"localhost","message":"[25-May-2017 18:19:29 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err","day":"2017.05.26"}
+
+    [time] => 2017-05-25 18:19:34
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:27:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr><tr><td>type</td><td>php_err</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:27:43.817Z","@version":"1","host":"localhost","message":"[25-May-2017 18:27:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:27:52
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:30:48 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:30:49.554Z","@version":"1","host":"localhost","message":"[25-May-2017 18:30:48 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:30:49
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:31:16 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:31:16.574Z","@version":"1","host":"localhost","message":"[25-May-2017 18:31:16 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:31:16
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:32:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:32:42.653Z","@version":"1","host":"localhost","message":"[25-May-2017 18:32:41 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:32:42
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:32:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:32:54.664Z","@version":"1","host":"localhost","message":"[25-May-2017 18:32:53 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:32:54
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/var/log/php_error.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>[25-May-2017 18:33:20 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-接口异常
+    [content] => {"path":"/var/log/php_error.log","@timestamp":"2017-05-25T10:33:20.682Z","@version":"1","host":"localhost","message":"[25-May-2017 18:33:20 PRC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/wwwroot/comment/CommentWeb/wwwroot/index.php on line 5","type":"php_err"}
+
+    [time] => 2017-05-25 18:33:20
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/tmp/test.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>2017-05-25 18:33:53 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-应用错误告警
+    [content] => {"path":"/tmp/test.log","@timestamp":"2017-05-25T10:33:54.750Z","@version":"1","host":"localhost","message":"2017-05-25 18:33:53 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+
+    [time] => 2017-05-25 18:33:54
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/tmp/test.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>2017-05-25 18:34:22 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-应用错误告警
+    [content] => {"path":"/tmp/test.log","@timestamp":"2017-05-25T10:34:22.772Z","@version":"1","host":"localhost","message":"2017-05-25 18:34:22 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+
+    [time] => 2017-05-25 18:34:22
+)
+<table border='1' cellspacing='0' cellpadding='10'><tr><td>path</td><td>/tmp/test.log</td></tr><tr><td>host</td><td>localhost</td></tr><tr><td>message</td><td>2017-05-25 19:10:58 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}</td></tr></table>Array
+(
+    [consignee] => wangyw3@ifeng.com
+    [title] => 微信系统-应用错误告警
+    [content] => {"path":"/tmp/test.log","@timestamp":"2017-05-25T11:10:59.292Z","@version":"1","host":"localhost","message":"2017-05-25 19:10:58 [122.111.111.111] [error] [Interface:http://sina.com/order/getinfo] [ExecTime:6s] return:{code:0,msg:success,data:{}}","type":"php_err"}
+
+    [time] => 2017-05-25 19:11:01
+)
