@@ -21,7 +21,7 @@ $config = $system[$systemId];
 $mail_form = $config['mail_from'];
 $redis = new Redis();  
 $redis->pconnect($redisConf['host'],$redisConf['port']);  
-$redis->auth($redisConf['password']);
+//$redis->auth($redisConf['password']);
 
 while(True){  
     try{  

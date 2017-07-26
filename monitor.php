@@ -22,7 +22,7 @@ $handle = popen("tail -n 0 -f $log_path 2>&1", 'r');
 
 $redis = new redis();
 $redis->pconnect($redisConf['host'],$redisConf['port']);  
-$redis->auth($redisConf['password']);
+//$redis->auth($redisConf['password']);
 
 while(!feof($handle)) {
     try{
@@ -57,4 +57,4 @@ while(!feof($handle)) {
         echo $e->getMessage()."\n";  
     }
 }
-pclose($handle);
+$redis->close($handle);

@@ -28,7 +28,7 @@
             'mail_host'=>'mail.ifeng.com',
             'user'=>'wangyw3',
             'auth'=>true,
-            'pass'=>'123456',
+            'pass'=>'12345678',
 	    'charset'=> 'utf-8',
             'mail_port'=>25,   
             'mail_timeout'=>3, //3s
